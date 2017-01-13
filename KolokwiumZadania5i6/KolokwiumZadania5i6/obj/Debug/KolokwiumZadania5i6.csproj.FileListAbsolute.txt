@@ -1,0 +1,6 @@
+D:\AC\KolokwiumZadania5i6\KolokwiumZadania5i6\bin\Debug\KolokwiumZadania5i6.exe.config
+D:\AC\KolokwiumZadania5i6\KolokwiumZadania5i6\bin\Debug\KolokwiumZadania5i6.exe
+D:\AC\KolokwiumZadania5i6\KolokwiumZadania5i6\bin\Debug\KolokwiumZadania5i6.pdb
+D:\AC\KolokwiumZadania5i6\KolokwiumZadania5i6\obj\Debug\KolokwiumZadania5i6.exe
+D:\AC\KolokwiumZadania5i6\KolokwiumZadania5i6\obj\Debug\KolokwiumZadania5i6.pdb
+D:\AC\KolokwiumZadania5i6\KolokwiumZadania5i6\obj\Debug\KolokwiumZadania5i6.csprojResolveAssemblyReference.cache
